@@ -76,7 +76,7 @@ padding-left: 50px;
 padding-right: 50px;
 display:flex;
 flex-direction: column;
-padding-bottom: 45px;
+padding-bottom: 55px;
 }
 .sec2 h3{
   align-self: center;
@@ -104,5 +104,21 @@ border-style: solid;
 }
 /*sec3*/
 .sec3{
+background-color: #E5E7EB;
+
+padding:50px;
 
 }
+.quote{
+  text-align: left;
+  padding: 60px;
+  margin-right: 60px;
+  font-size: 36px;
+  color: #1F2937;
+  font-family: 'light italic';
+}
+.author{
+  text-align: right;
+  font-weight: bold;
+}
+
